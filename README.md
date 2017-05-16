@@ -1,0 +1,1 @@
+It is a simple web aplication for user login. It is developed using Spring framework(Spring Boot, Security,MVC), Hibernate and JUnit framework is being used for testing.
